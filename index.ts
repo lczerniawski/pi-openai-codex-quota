@@ -57,7 +57,7 @@ export default function openaiUsage(pi: ExtensionAPI) {
         addWindow("Weekly", quota.weekly);
         return rows;
       },
-      invalidate() {},
+      invalidate() { },
     };
   });
 

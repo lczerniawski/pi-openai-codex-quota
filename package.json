@@ -1,6 +1,6 @@
 {
   "name": "pi-openai-codex-quota",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Show remaining OpenAI Codex quota in Pi with /usage",
   "license": "MIT",
   "type": "module",
