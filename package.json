@@ -1,8 +1,17 @@
 {
   "name": "pi-openai-codex-quota",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Show remaining OpenAI Codex quota in Pi with /usage",
   "license": "MIT",
+  "author": {
+    "name": "Lukasz Czerniawski",
+    "url": "https://github.com/lczerniawski"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lczerniawski/pi-openai-codex-quota"
+  },
+  "homepage": "https://github.com/lczerniawski/pi-openai-codex-quota#readme",
   "type": "module",
   "keywords": [
     "pi-package",
